@@ -1,10 +1,10 @@
-# CodeCraftAI
+# AgentDevTeam
 
 ## Overview
-CodeCraftAI is an innovative Multi-Agent System powered by **CrewAI** that automates software development by simulating a professional development team. It takes a user-defined project idea and orchestrates AI agents to generate, review, document, and deploy code to a GitHub repository, streamlining the creation of production-ready software projects.
+AgentDevTeam is an innovative Multi-Agent System powered by **CrewAI** that automates software development by simulating a professional development team. It takes a user-defined project idea and orchestrates AI agents to generate, review, document, and deploy code to a GitHub repository, streamlining the creation of production-ready software projects.
 
 ## Purpose
-CodeCraftAI aims to accelerate software development by:
+AgentDevTeam aims to accelerate software development by:
 - Generating high-quality frontend and backend code tailored to the user’s project idea.
 - Ensuring code quality through automated reviews.
 - Producing clear documentation and automating deployment to GitHub.
@@ -36,7 +36,7 @@ CodeCraftAI mimics a professional software development team through its agents, 
 This collaborative approach ensures efficiency, quality, and a polished final product with minimal user intervention.
 
 ## Technologies Used
-CodeCraftAI is built with the following technologies:
+AgentDevTeam is built with the following technologies:
 - **CrewAI**: Orchestrates the multi-agent system.
 - **LangChain**: Integrates language models and tools for agent functionality.
 - **OpenAI API**: Powers the agents with advanced language understanding and code generation.
